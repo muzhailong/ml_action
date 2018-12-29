@@ -37,6 +37,5 @@ def handwritingClassTest():
             errorCount += 1
     print(errorCount / mTest)
 
-
 if __name__ == "__main__":
     handwritingClassTest()
